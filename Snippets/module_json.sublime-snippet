@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{module_json json="${1:url}" collection="${2}" template="${3}"}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mj</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
