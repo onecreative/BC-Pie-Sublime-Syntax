@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content><![CDATA[{% continue -%}]]></content>
+    <tabTrigger>cont</tabTrigger>
+    <scope>text.html.liquid</scope>
+    <description>continue</description>
+</snippet>
