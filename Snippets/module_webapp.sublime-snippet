@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{module_webapps render="${1:item}" id="${2:name}" filter="${3:all}" collection="${4:collection_name}" template="${5}"}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mw</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
