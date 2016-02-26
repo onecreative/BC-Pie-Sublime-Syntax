@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{module_menu version="2" menuId="$1" moduleTemplateGroup="${2:Default}" template="$3" ${4:collection="$5}"}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mv2</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
