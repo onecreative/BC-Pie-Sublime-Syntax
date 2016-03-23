@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-{module_webapps render="${1:item}" id="${2:name}" filter="${3:all}" collection="${4:collection_name}" template="${5}"}
+{module_webapps id="$3" filter="${4:all}"${5: itemid="$6"}${1: render="${2:item}"} collection="${7:collection_name}"${8: template="$9"}}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>mw</tabTrigger>
